@@ -1,0 +1,101 @@
+
+osquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8˜…»¨Ž-
+jsquid:S1192µ"KDefine a constant instead of duplicating this literal "expires_in" 3 times.(’¡¼Ý8˜…»¨Ž-
+isquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(¨ÏÕ­8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+qsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²©Úß8žíµ¨Ž-
+wsquid:S1450Ã"XRemove the "lasterror" field and declare it as a local variable in the relevant methods.(é¼Ë’8˜…»¨Ž-
+ssquid:S00100Ý"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õµ­¥ùÿÿÿÿ8˜…»¨Ž-
+ssquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áçº×úÿÿÿÿ8˜…»¨Ž-
+osquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(·€‚´ÿÿÿÿÿ8˜…»¨Ž-
+jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ãó‰ÿ8˜…»¨Ž-
+Qsquid:S1135ÿ"2Complete the task associated to this TODO comment.(‡ñÅ¼8˜…»¨Ž-
+vsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­éÔ“ýÿÿÿÿ8˜…»¨Ž-
+psquid:S00117ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÉÁa8˜…»¨Ž-
+}squid:S001163"^Rename this field "AccessTokenCallBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áË«¥8˜…»¨Ž-
+nsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÓè×8˜…»¨Ž-
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹÷£ýÿÿÿÿ8˜…»¨Ž-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+‚squid:S1488³"^Immediately return this expression instead of assigning it to the temporary variable "newURL".(í‚ùžþÿÿÿÿ8˜…»¨Ž-
+psquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ€Á±8˜…»¨Ž-
+msquid:S2259ž"IA "NullPointerException" could be thrown; "_api_token()" can return null.(³¾é¸ûÿÿÿÿ8˜…»¨Ž-
+psquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÁŸÓ8†ƒ¶¨Ž-
+ssquid:S00100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ýÑÑûÿÿÿÿ8˜…»¨Ž-
+Ssquid:S2864Ø"4Iterate over the "entrySet" instead of the "keySet".(°ŸÄ°8˜…»¨Ž-
+nsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(¨œÒ¼þÿÿÿÿ8˜…»¨Ž-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+squid:S1488¬"[Immediately return this expression instead of assigning it to the temporary variable "rlt".(ÌúÀÂüÿÿÿÿ8˜…»¨Ž-
+†"squid:ClassVariableVisibilityCheck,"QMake debug a static final constant or non-public and provide accessors if needed.(ÛÛÚè8˜…»¨Ž-
+€squid:S1450&"]Remove the "encodingAesKey" field and declare it as a local variable in the relevant methods.(Ðó¤ïùÿÿÿÿ8šÁç”‹-
+Dsquid:S1172t"&Remove these unused method parameters.(å Î÷8˜…»¨Ž-
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹÷£ýÿÿÿÿ8˜…»¨Ž-
+qsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û°žß8˜…»¨Ž-
+wsquid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(—›ÈÛ8˜…»¨Ž-
+vsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿®×Ðøÿÿÿÿ8˜…»¨Ž-
+wsquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(„™Òéÿÿÿÿÿ8˜…»¨Ž-
+osquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.( ­¶üÿÿÿÿ8˜…»¨Ž-
+ssquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Îöýûÿÿÿÿ8˜…»¨Ž-
+hsquid:S3358“"DExtract this nested ternary operation into an independent statement.(ßÑ±£ýÿÿÿÿ8˜…»¨Ž-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+}squid:S001167"YRename this field "TicketCallBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‘øþÿÿÿÿ8˜…»¨Ž-
+esquid:S2259ø"AA "NullPointerException" could be thrown; "rlt" is nullable here.(€É­žøÿÿÿÿ8˜…»¨Ž-
+vsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½ñÓøÿÿÿÿ8˜…»¨Ž-
+Xsquid:S2864 "4Iterate over the "entrySet" instead of the "keySet".(ß‚Óþûÿÿÿÿ8˜…»¨Ž-
+squid:S00116;"bRename this field "UserAccessTokenCallBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÝÍÚ8˜…»¨Ž-
+qsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²©Úß8žíµ¨Ž-
+qsquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(¶™Év8˜…»¨Ž-
+Csquid:S1659_"%Declare "echostr" on a separate line.(Œ€Á±8˜…»¨Ž-
+{squid:S00116*"WRename this field "jsapi_ticket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Á¥êûÿÿÿÿ8˜…»¨Ž-
+`squid:S2259³"AA "NullPointerException" could be thrown; "rlt" is nullable here.(¡¿Åœ8˜…»¨Ž-
+ssquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¢¤‚ÿÿÿÿÿ8˜…»¨Ž-
+wsquid:ModifiersOrderCheck¡"EReorder the modifiers to comply with the Java Language Specification.(Ç•òØüÿÿÿÿ8˜…»¨Ž-
+msquid:S00100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+]squid:UnusedPrivateMethodÀ"1Remove this unused private "posthttpfile" method.(Ú¨±$8˜…»¨Ž-
+vsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ˜ëÞýÿÿÿÿ8˜…»¨Ž-
+nsquid:S1192Ã"ODefine a constant instead of duplicating this literal "access_token=" 13 times.(”èÀÚ8˜…»¨Ž-
+fsquid:S1192¸"GDefine a constant instead of duplicating this literal "status" 7 times.(ÄçÃç8˜…»¨Ž-
+ssquid:S00100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®åÓ ùÿÿÿÿ8˜…»¨Ž-
+`squid:S2259È"AA "NullPointerException" could be thrown; "rlt" is nullable here.(¡¿Åœ8˜…»¨Ž-
+psquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÏÞx8˜…»¨Ž-
+tsquid:S00116."VRename this field "menu_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÍåU8˜…»¨Ž-
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ýìÞªúÿÿÿÿ8˜…»¨Ž-
+osquid:UnusedPrivateMethodº"=Remove this unused private "_api_token_post_get_file" method.(Û¼°¤üÿÿÿÿ8˜…»¨Ž-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+psquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÁŸÓ8˜…»¨Ž-
+jsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(û¥û³8˜…»¨Ž-
+Usquid:S1068&"2Remove this unused "encodingAesKey" private field.(Ðó¤ïùÿÿÿÿ8šÁç”‹-
+psquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å Î÷8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+\
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(˜ÞàÑþÿÿÿÿ8˜…»¨Ž-
+Bsquid:S1659_"$Declare "tmpStr" on a separate line.(Œ€Á±8˜…»¨Ž-
+ssquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¼°¤üÿÿÿÿ8˜…»¨Ž-
+vsquid:S00116'"WRename this field "encrypt_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¡öê8šÁç”‹-
+ssquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‹õêÿÿÿÿÿ8˜…»¨Ž-
+Nsquid:S1068'"0Remove this unused "encrypt_type" private field.(»¡öê8šÁç”‹-
+ksquid:S1192ø"GDefine a constant instead of duplicating this literal "openid" 4 times.(€É­žøÿÿÿÿ8˜…»¨Ž-
+€squid:S4165½"aRemove this useless assignment; "rlt" already holds the assigned value along all execution paths.(ûÅß–8˜…»¨Ž-
+psquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÏÞx8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+msquid:S1192£"IDefine a constant instead of duplicating this literal "media_id" 5 times.(Áäù®ùÿÿÿÿ8˜…»¨Ž-
+rsquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(Ìã¢Å8˜…»¨Ž-
+vsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï ’¢þÿÿÿÿ8˜…»¨Ž-
+ssquid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íœ»¬ùÿÿÿÿ8˜…»¨Ž-
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á—žü8˜…»¨Ž-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ë¢àûÿÿÿÿ8˜…»¨Ž-
+Ssquid:S2864ù"4Iterate over the "entrySet" instead of the "keySet".(°ŸÄ°8˜…»¨Ž-
+nsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÐ°ý8˜…»¨Ž-
+jsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(½ìŸ 8˜…»¨Ž-
+nsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×íà—8˜…»¨Ž-
+hsquid:S2259í"IA "NullPointerException" could be thrown; "_api_token()" can return null.(«ÊÄä8˜…»¨Ž-
+lsquid:S2259•"HA "NullPointerException" could be thrown; "replyJSON()" can return null.(Œ øîÿÿÿÿÿ8˜…»¨Ž-
+qsquid:S1192¬"MDefine a constant instead of duplicating this literal "access_token" 3 times.(¥Å‘¹ÿÿÿÿÿ8˜…»¨Ž-
+W
+squid:S106·"9Replace this use of System.out or System.err by a logger.(¸ž‡æ8˜…»¨Ž-
+Bsquid:S1659_"$Declare "_token" on a separate line.(Œ€Á±8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðì×öþÿÿÿÿ8˜…»¨Ž-
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹÷£ýÿÿÿÿ8˜…»¨Ž-
+usquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹÷£ýÿÿÿÿ8žíµ¨Ž-
