@@ -15,7 +15,7 @@
         <dependency>
             <groupId>gfw</groupId>
             <artifactId>common</artifactId>
-            <version>1.06</version>
+            <version>1.062</version>
         </dependency>
         <dependency>
             <groupId>com.konghq</groupId>
@@ -115,7 +115,7 @@
         <repository>
             <id>GrapeSoft</id>
             <name>GrapeSoft</name>
-            <url>http://193.112.89.157:8081/repository/GrapeSoft/</url>
+            <url>http://mvn.putao282.com:8081/repository/GrapeSoft/</url>
         </repository>
     </distributionManagement>
 </project>
